@@ -16,6 +16,10 @@ theme = "awesome-identity"
   github = "seve-andre"
   linkedin = "andrea-severi"
   instagram = "seve_andre"
+  
+[[params.actions]]
+  name = "read my cv"
+  url = "https://github.com/seve-andre/curriculum-vitae"
 
 [params.footer]
   copyright = "© 2023 Andrea Severi. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
