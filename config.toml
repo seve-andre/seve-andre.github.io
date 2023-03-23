@@ -1,0 +1,22 @@
+baseURL = 'https://andrea.severi.it/'
+languageCode = 'en-us'
+title = 'Andrea Severi | Software Engineer'
+
+theme = "awesome-identity"
+
+[params.profile]
+  portrait = "myself.jpg"
+  firstname = "Andrea"
+  lastname = "Severi"
+  title = "Computer Science and Engineering student @Unibo"
+  bio = """"""
+
+[params.contacts]
+  email = "andrea.severi.dev@gmail.com"
+  github = "seve-andre"
+  linkedin = "andrea-severi"
+  instagram = "seve_andre"
+
+[params.footer]
+  copyright = "© 2023 Andrea Severi. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = true
