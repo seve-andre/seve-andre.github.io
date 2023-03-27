@@ -1,1 +1,2 @@
-# seve-andre.github.io
+# My personal website
+You can find it at https://seve-andre.github.io/
