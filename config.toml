@@ -4,6 +4,14 @@ theme = "awesome-identity"
 
 googleAnalytics = "G-KYQDK321P5"
 
+## Meta Configurations (HTTP Meta tags & OpenGraph)
+[params.meta]
+  description = "Andrea Severi, Software Engineer"
+  keywords = "andrea, severi, software engineer, developer, java, kotlin, android, rust, jetpack compose, unibo, cesena"
+  images = [
+    "myself.jpg"
+  ]
+
 [params.profile]
   portrait = "myself.jpg"
   firstname = "Andrea"
