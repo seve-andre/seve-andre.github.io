@@ -3,6 +3,8 @@ title = "Andrea Severi | Software Engineer"
 theme = "awesome-identity"
 
 googleAnalytics = "G-KYQDK321P5"
+# Enable generation of `robots.txt` file
+enableRobotsTXT = true
 
 ## Meta Configurations (HTTP Meta tags & OpenGraph)
 [params.meta]
