@@ -1,7 +1,5 @@
-baseURL = 'https://andrea.severi.it/'
-languageCode = 'en-us'
-title = 'Andrea Severi | Software Engineer'
-
+languageCode = "en-US"
+title = "Andrea Severi | Software Engineer"
 theme = "awesome-identity"
 
 [params.profile]
