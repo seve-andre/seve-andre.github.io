@@ -28,8 +28,8 @@ enableRobotsTXT = true
   instagram = "seve_andre"
   
 [[params.actions]]
-  name = "read my cv"
-  url = "https://github.com/seve-andre/curriculum-vitae/blob/main/severi-andrea-cv-en.pdf"
+  name = "read my resume"
+  url = "https://github.com/seve-andre/resume/blob/main/severi-andrea-resume-en.pdf"
 
 [params.footer]
   copyright = "© 2023 Andrea Severi. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
