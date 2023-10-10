@@ -15,7 +15,7 @@ enableRobotsTXT = true
   ]
 
 [params.profile]
-  portrait = "myself.jpg"
+  portrait = "me.jpg"
   firstname = "Andrea"
   lastname = "Severi"
   title = "Computer Science and Engineering student @Unibo"
